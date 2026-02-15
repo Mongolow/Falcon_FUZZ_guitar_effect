@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.vscode/
+.idea/
+*.log
+*.swp
+
+# OS files
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Coverage
+coverage/
