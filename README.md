@@ -51,11 +51,3 @@ ffplay assets/audio/RAW_SIGNAL_guitar.mp3
 
 Note: the audio files in this repository have been volume-adjusted for clearer listening demonstrations.
 
-## License
-
-This repository uses permissive, public licenses so the project can be reused freely:
-
-- Code, documentation, and project files: MIT License — see `LICENSE`.
-- Audio test files in `assets/audio/`: public domain (CC0) — see `LICENSE_AUDIO`.
-
-If you prefer a different license for any part of the project, tell me which one and I will update the files.
